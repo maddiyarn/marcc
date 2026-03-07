@@ -31,7 +31,7 @@ const screens = [
             <img src="img/my_photo.jpg" class="character-img" alt="Менің суретім">
             <h1>9G қыздары, Келесіңдер ме?</h1>
             <div class="info-box">
-                <p>📍 <strong>Қайда:</strong> 20а мкр., 21 үй Томирис ТК, 4 кіреберіс, 5 қабат, 70 пәтер</p>
+                <p>📍 <strong>Қайда:</strong> «Томирис» ТК, 21А үй, 70-пәтер, 4-кіреберіс, 5-қабат</p>
                 <p>📅 <strong>Қашан:</strong> 8 наурыз, 19:00</p>
                 <p>🍰 <strong>Бонус:</strong> Әділет манты пісіреді!!!</p>
             </div>
@@ -100,7 +100,7 @@ const screens = [
             <button class="btn" style="position: absolute; top: 15px; left: 15px; background: rgba(0,0,0,0.05); color: #4a4a4a; border-radius: 50%; width: 45px; height: 45px; padding: 0; display: flex; align-items: center; justify-content: center; font-size: 24px; box-shadow: none;" onclick="prevScreen()">🔙</button>
             <img src="img/my_photo_2.jpg" class="character-img" alt="Екінші сурет">
             <h1>АЛАҚАЙ, СЕНІ КҮТЕМІЗ!!! 🥰🥳</h1>
-            <h2>📍 20а мкр., 21 үй Томирис ТК, 4 кіреберіс, 5 қабат, 70 пәтер</h2>
+            <h2>📍 «Томирис» ТК, 21А үй, 70-пәтер, 4-кіреберіс, 5-қабат</h2>
             <h2>👗 Дресс-код: Жақсы көңіл-күй</h2>
             <br>
             <button class="btn" onclick="nextScreen()">Мен келдім ✅</button>
@@ -113,7 +113,7 @@ const screens = [
             <div class="emoji">🎉</div>
             <div class="info-box">
                 <p>🔢 <strong>Домофон коды:</strong> 6186</p>
-                <p>📍 <strong>Мекен-жай:</strong> 20а мкр., 21 үй Томирис ТК, 4 кіреберіс, 5 қабат, 70 пәтер</p>
+                <p>📍 <strong>Мекен-жай:</strong> «Томирис» ТК, 21А үй, 70-пәтер, 4-кіреберіс, 5-қабат</p>
             </div>
         `
     }
